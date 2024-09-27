@@ -16,6 +16,7 @@ Estrutura de Pastas: Criar pastas para cada matéria/disciplina.
 Anotações em Bloco: Dentro de cada pasta, os usuários podem criar anotações em formato de bloco de notas, com opções de formatação básica.
 
 **3. Tecnologias**
+
 Frontend: Flutter
 
 # Paleta de Cores
