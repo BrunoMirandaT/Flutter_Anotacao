@@ -21,12 +21,11 @@ Frontend: Flutter
 
 # Paleta de Cores
 
-Link: https://paletadecores.com/paleta/40ffdc/00a9d4/1c3166/240047/1c0021/
+![image](https://github.com/user-attachments/assets/55cafccf-24cc-4f44-b7ef-0687ff07a918)
 
 # Como Importar
 
 Flutter 3.24 and Dart 3.5
 
 # Print Telas
-
 
