@@ -24,7 +24,7 @@ Link: https://paletadecores.com/paleta/40ffdc/00a9d4/1c3166/240047/1c0021/
 
 # Como Importar
 
-Link do Git: https://github.com/BrunoMirandaT/Flutter_Anotacao/
+Flutter 3.24 and Dart 3.5
 
 # Print Telas
 
