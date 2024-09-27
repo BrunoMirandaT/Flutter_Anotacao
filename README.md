@@ -1,13 +1,27 @@
 # Escopo
 
-A new Flutter project.
+Aplicativo de Anotações de Estudo
 
-## Paleta de Cores
+**1. Objetivo**
+Criar um aplicativo mobile para que usuários possam criar, organizar e revisar anotações de estudo.
 
-This project is a starting point for a Flutter application.
+**2. Funcionalidades Principais**
+Criação de Anotações: Editor de texto com formatação e marcação.
+Organização: Pastas e tags para facilitar o acesso.
+Estrutura de Pastas: Criar pastas para cada matéria/disciplina.
+Anotações em Bloco: Dentro de cada pasta, os usuários podem criar anotações em formato de bloco de notas, com opções de formatação básica.
 
-## Como Importar
+**3. Tecnologias**
+Frontend: Flutter
 
-A few resources to get you started if this is your first Flutter project:
+# Paleta de Cores
 
-## Print Telas
+Link: https://paletadecores.com/paleta/40ffdc/00a9d4/1c3166/240047/1c0021/
+
+# Como Importar
+
+Link do Git: 
+
+# Print Telas
+
+
