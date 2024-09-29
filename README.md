@@ -29,3 +29,7 @@ Flutter 3.24 and Dart 3.5
 
 # Print Telas
 
+![image](https://github.com/user-attachments/assets/aad6b8ee-59f3-4ef1-a0d0-ba6d02d9355c)
+![image](https://github.com/user-attachments/assets/6df2fe2f-7145-4da6-a7d8-211f8bfcc661)
+![image](https://github.com/user-attachments/assets/ce8c9448-0562-4243-bd73-ff3ea902c7de)
+
