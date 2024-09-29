@@ -25,7 +25,8 @@ Frontend: Flutter
 
 # Como Importar
 
-Flutter 3.24 and Dart 3.5
+Utlizar o link abaixo na aba VCS (Version Control System) de qualquer editor de código-fonte com suporte a essa função:
+https://github.com/BrunoMirandaT/Flutter_Anotacao.git
 
 # Print Telas
 
